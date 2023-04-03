@@ -1,0 +1,20 @@
+h1
+    {
+        color:rgb(201, 236, 236);
+        font-family:tahoma;
+    }
+
+body
+    {
+     background-color: rgb(245, 194, 238);
+    }
+
+a
+    {
+        text-decoration:none;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 14pt;
+        color:indianred;
+        padding: 50px;
+        padding-right:100px ;
+    }
